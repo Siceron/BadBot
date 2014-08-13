@@ -1,0 +1,7 @@
+#Configurations du plugin BadBot
+
+#Message d'alerte du spam
+message: "Attendez 15 secondes avant d'envoyer le même message"
+
+#Intervalle de mute
+interval: 15
